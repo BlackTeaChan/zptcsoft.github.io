@@ -62,22 +62,26 @@
 
 ## 课程讲义
 1. [课程概述](//zptcsoft.github.io/ppt/01.htm)
-2. [网页相关](//zptcsoft.github.io/ppt/02.htm)
-3. 03 
-
-
+2. [web概述](//zptcsoft.github.io/ppt/02.htm)
+3. [html概述](//zptcsoft.github.io/ppt/03.htm)
+4. [HTML元素](//zptcsoft.github.io/ppt/04.htm)
+5. [HTML属性](//zptcsoft.github.io/ppt/05.htm)
+6. [HTML文档元数据和脚本元素](//zptcsoft.github.io/ppt/06.htm)
+7. [HTML节点元素](//zptcsoft.github.io/ppt/07.htm)
+8. [HTML文本元素](//zptcsoft.github.io/ppt/08.htm)
+9. [HTML图像元素](//zptcsoft.github.io/ppt/09.htm)
 
 ## 课程资源
-1.  [w3school](//www.w3school.com.cn/)
-2.  [css3手册在线版](//css.doyoe.com/)，[css3手册下载](//css.doyoe.com/css.chm)
-3.  史上最性感的编辑器-[**sublimetext**](www.sublimetext.com/)，[安装步骤](soft/01install sublime_text.md)，**sublime text常用插件集成版** [百度网盘下载](//pan.baidu.com/s/1nubND8l)、[课程资源下载](//github.com/zptcsoft/zptcsoft.github.io/raw/dev/soft/01Sublime%20Text%202.0.2%20x64.rar), [学习资源](//www.jianshu.com/p/d1b9a64e2e37)。
-4.  **GithubDesktop安装**，首先安装[**.net Framework 4.5**](//www.microsoft.com/zh-cn/download/details.aspx?id=30653), 其次解压缩安装**Github Desktop**[百度网盘下载](//pan.baidu.com/s/1i4bVR4T)、[课程资源下载](//github.com/zptcsoft/zptcsoft.github.io/raw/dev/soft/02Github%20Desktop.rar)。
-5.  [html标签参考手册](http://www.w3school.com.cn/tags/html_ref_byfunc.asp), [html 参考手册官方英文](https://www.w3.org/TR/html-markup/)
+1.  著名常用web学习网站[w3school](//www.w3school.com.cn/)，入门必备。
+2.  [html标签参考手册](http://www.w3school.com.cn/tags/html_ref_byfunc.asp), [html 参考手册官方英文](https://www.w3.org/TR/html-markup/)
+3.  [css3手册在线版](//css.doyoe.com/)，[css3手册下载](//css.doyoe.com/css.chm)
+4.  史上最性感的编辑器-[**sublimetext**](www.sublimetext.com/)，[安装步骤](soft/01install sublime_text.md)，**sublime text常用插件集成版** [百度网盘下载](//pan.baidu.com/s/1nubND8l)、[课程资源下载](//github.com/zptcsoft/zptcsoft.github.io/raw/dev/soft/01Sublime%20Text%202.0.2%20x64.rar), [学习资源](//www.jianshu.com/p/d1b9a64e2e37)。
+5.  **GithubDesktop安装**，首先安装[**.net Framework 4.5**](//www.microsoft.com/zh-cn/download/details.aspx?id=30653), 其次解压缩安装**Github Desktop**[百度网盘下载](//pan.baidu.com/s/1i4bVR4T)、[课程资源下载](//github.com/zptcsoft/zptcsoft.github.io/raw/dev/soft/02Github%20Desktop.rar)。
+6. [Github Desktop使用教程](https://github.com/zptcsoft/zptcsoft.github.io/blob/master/soft/02HowToUseGithubDesktop.md), [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+7.  网站制作[视频教程](http://v.dxsbb.com/topiclist/wangzhan.html)， 请大家帮忙整理网络系列学习教程。
 
 ## 学友链接
-
 ### 软件151
-
 [01徐浩鹏](//github.com/xhp111/xhp111.github.io)
 [02李明豪](//github.com/fylmh/fylmh.github.io) 
 [04尹飞燕](//github.com/Ysidm/zptcsoft.github.io/)
@@ -88,18 +92,16 @@
 [09陈浩](//github.com/BlackTeaChan/BlackTeaChan.github.io)
 [10杨登欢](//github.com/916hh/916hh.github.io)
  
- 
 [12任军](//github.com/Ghostrj/Ghostrj.github.io)
 [13章宇凯](//github.com/kaiyfy/kaiyfy.github.io)
 [14潘佳琦](//github.com/pjq123456/pjq123456.github.io)
-15裘家威
+[15裘家威](https://github.com/qiujiawei01/qiujiawei01.github.io)
 [16李玲巧](//github.com/lilingqiao/lilingqiao.github.io)
 [17郑天阳](//github.com/zty451514243/zty451514243.github.io)
 [18范莎莎](//github.com/18158652021/18158652021.github.io)
 [19王永琪](//github.com/29816768/29816768.github.io)
 [21白逢喜](//github.com/b526879840/b526879840.github.io)
 
- 
 [22夏远征](//github.com/SBNMC/SBNMC.github.io)
 [23李传访](//github.com/idcnm/idcnm.github.io)
 [24曾丽丽](//github.com/zilanhua/zilanhua.github.io)
@@ -107,7 +109,7 @@
 [26林群栋](//github.com/LinQD/LinQD.github.io)
 [27王瑶](//github.com/blacklike/blacklike.github.io/)
 [28王浩](//github.com/a1172690960/a1172690960.github.io)
-29叶圣辉
+[29叶圣辉](https://github.com/a343335300/a343335300.github.io)
 [30阮盛威](//github.com/rsw0416/rsw0416.github.io)
 
 [31徐道聪](//github.com/xuxiaoshang/xuxiaoshang.github.io)
@@ -120,8 +122,6 @@
 [39刘晓辉](//github.com/liuxiaohui2060/liuxiaohui2060.github.io)
 [41徐鹏](//github.com/xp1065013466/xp1065013466.github.io)
 
- 
-
 ### 软件152
 [01余家宝](//github.com/prtake/prtake.github.io) 
 [02郑柯柯](//github.com/771490657/771490657.github.io)
@@ -133,12 +133,11 @@
 [08方搏](//github.com/acher886654/acher886654.github.io)
 [09陈猛](//github.com/chen321/chen321.github.io)
 
-
 [10周冰婕](//github.com/zptczbj/zptczbj.github.io)
 [11陈章文](//github.com/saber12458/saber12458.github.io) 
 [12胡森方](//github.com/794710545/zptcsoft.github.io)
 [13廖定旺](//github.com/1264673023/1264673023.github.io)
-14沈锋
+[14沈锋](https://github.com/nipia/nipia.github.io)
 [16唐宁](//github.com/s404/s404.github.io)
 [18张家林](//github.com/1097919195/1097919195.github.io)
 [20卫银宇](//github.com/znbys/znbys.github.io) 
@@ -162,7 +161,7 @@
 [38刘毅梅](//github.com/gcllym/gcllym.github.io)
 [39王丽娜](//github.com/waseni/waseni.github.io)
 [40童伟键](//github.com/twjznb/twjznb.github.io)
-41伍吉康
+[41伍吉康](https://github.com/121243380/121243380.github.io)
 
 ## 课程活动
 1. 注册github账号，新建**用户名.github.io**仓库，确保可以在线浏览。
@@ -180,15 +179,20 @@
 ## 加分快讯
 
 ### 软件151 
-1. 等你来！
+1. 24曾丽丽 成功提交[更改](//github.com/zptcsoft/zptcsoft.github.io/pull/126)，获得悬赏分数20分，鼓掌庆贺吧。
+2. 27王瑶 发起很有价值的[Issues](//github.com/zptcsoft/zptcsoft.github.io/issues/135)，平时成绩加5分。
+3. 09陈浩分享[取色软件colorspro](//github.com/zptcsoft/zptcsoft.github.io/issues/136)，喜欢的移步下载。平时成绩加5分，鼓掌庆贺！！
+2. 继续呀，海量分数等你拿。
 
 
 ### 软件152
-1. 37杨虹提问[问题](https://github.com/zptcsoft/zptcsoft.github.io/issues/112)，平时成绩加5分，同学们动起来，go! go!
-2. 36陈兴博创建资源[分享帖](https://github.com/zptcsoft/zptcsoft.github.io/issues/113)，平时成绩加5分，这就对了，yeah！
-3. 24郑爱萍提问[问题](https://github.com/zptcsoft/zptcsoft.github.io/issues/115), 平时成绩加5分。大家一起来盖楼！！
-4. 03单超艺、10周冰婕创建[分享帖](https://github.com/zptcsoft/zptcsoft.github.io/issues/121)，平时成绩各加5分。
-5. come on
+1. 37杨虹提问[问题](//github.com/zptcsoft/zptcsoft.github.io/issues/112)，平时成绩加5分，同学们动起来，go! go!
+2. 36陈兴博创建资源[分享帖](//github.com/zptcsoft/zptcsoft.github.io/issues/113)，平时成绩加5分，这就对了，yeah！
+3. 24郑爱萍提问[问题](//github.com/zptcsoft/zptcsoft.github.io/issues/115), 平时成绩加5分。大家一起来盖楼！！
+4. 03单超艺、10周冰婕创建[分享帖](//github.com/zptcsoft/zptcsoft.github.io/issues/121)，平时成绩各加5分。
+5. 30毛杰就Github Desktop使用问题进行[提问](//github.com/zptcsoft/zptcsoft.github.io/issues/130)，平时成绩加5分，Fighting，少年！
+6. 10周冰婕参与[Issues讨论](//github.com/zptcsoft/zptcsoft.github.io/issues/135)，回答基本正确，平时成绩加5分，大家积极讨论吧。
+6. 海量分数等着你。
 
 
 
